@@ -1,15 +1,13 @@
-<<<<<<< HEAD
+
 # M2 MIAGE MBDS: BOUNOR Omar 
 
 _______________
-### Nom De fichier :Web Omar Bounor
-
-#### 
+## Nom De fichier :Web Omar Bounor
 
 Le code du component est écrit en "index.js" et contient:
-	-Le code HTML
-	-Le style CSS
-	-Le code Java Script
+- Le code HTML
+- Le style CSS
+- Le code Java Script
 
 Plusieurs méthodes sont utilisé en java script afin d'assuré le fonctionement de notre component Myaudioplayer:
 
@@ -34,8 +32,4 @@ Plusieurs méthodes sont utilisé en java script afin d'assuré le fonctionement
 
 
  
-=======
-# web
->>>>>>> 13c53b82d1a56de367972f8e0592f3c105bf7b3e
-"# Webcom" 
-"# web" 
+
